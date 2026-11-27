@@ -1,0 +1,172 @@
+{
+  "Karang Pilang": {
+    "file": "geojson_by_kecamatan/karang_pilang.geojson",
+    "kota": "Surabaya",
+    "size_kb": 11.64
+  },
+  "Tegalsari": {
+    "file": "geojson_by_kecamatan/tegalsari.geojson",
+    "kota": "Surabaya",
+    "size_kb": 5.51
+  },
+  "Sawahan": {
+    "file": "geojson_by_kecamatan/sawahan.geojson",
+    "kota": "Surabaya",
+    "size_kb": 7.62
+  },
+  "Genteng": {
+    "file": "geojson_by_kecamatan/genteng.geojson",
+    "kota": "Surabaya",
+    "size_kb": 6.01
+  },
+  "Pabean Cantian": {
+    "file": "geojson_by_kecamatan/pabean_cantian.geojson",
+    "kota": "Surabaya",
+    "size_kb": 16.67
+  },
+  "Bubutan": {
+    "file": "geojson_by_kecamatan/bubutan.geojson",
+    "kota": "Surabaya",
+    "size_kb": 5.96
+  },
+  "Tandes": {
+    "file": "geojson_by_kecamatan/tandes.geojson",
+    "kota": "Surabaya",
+    "size_kb": 14.11
+  },
+  "Krembangan": {
+    "file": "geojson_by_kecamatan/krembangan.geojson",
+    "kota": "Surabaya",
+    "size_kb": 14.16
+  },
+  "Lakarsantri": {
+    "file": "geojson_by_kecamatan/lakarsantri.geojson",
+    "kota": "Surabaya",
+    "size_kb": 34.91
+  },
+  "Benowo": {
+    "file": "geojson_by_kecamatan/benowo.geojson",
+    "kota": "Surabaya",
+    "size_kb": 38.99
+  },
+  "Wiyung": {
+    "file": "geojson_by_kecamatan/wiyung.geojson",
+    "kota": "Surabaya",
+    "size_kb": 18.31
+  },
+  "Dukuh Pakis": {
+    "file": "geojson_by_kecamatan/dukuh_pakis.geojson",
+    "kota": "Surabaya",
+    "size_kb": 13.17
+  },
+  "Sukomanunggal": {
+    "file": "geojson_by_kecamatan/sukomanunggal.geojson",
+    "kota": "Surabaya",
+    "size_kb": 7.71
+  },
+  "Asem Rowo": {
+    "file": "geojson_by_kecamatan/asem_rowo.geojson",
+    "kota": "Surabaya",
+    "size_kb": 20.3
+  },
+  "Pakal": {
+    "file": "geojson_by_kecamatan/pakal.geojson",
+    "kota": "Surabaya",
+    "size_kb": 49.53
+  },
+  "Sambikerep": {
+    "file": "geojson_by_kecamatan/sambikerep.geojson",
+    "kota": "Surabaya",
+    "size_kb": 30.87
+  },
+  "Dukun": {
+    "file": "geojson_by_kecamatan/dukun.geojson",
+    "kota": "Gresik",
+    "size_kb": 87.77
+  },
+  "Balongpanggang": {
+    "file": "geojson_by_kecamatan/balongpanggang.geojson",
+    "kota": "Gresik",
+    "size_kb": 127.58
+  },
+  "Panceng": {
+    "file": "geojson_by_kecamatan/panceng.geojson",
+    "kota": "Gresik",
+    "size_kb": 152.42
+  },
+  "Benjeng": {
+    "file": "geojson_by_kecamatan/benjeng.geojson",
+    "kota": "Gresik",
+    "size_kb": 120.66
+  },
+  "Duduksampeyan": {
+    "file": "geojson_by_kecamatan/duduksampeyan.geojson",
+    "kota": "Gresik",
+    "size_kb": 72.51
+  },
+  "Wringinanom": {
+    "file": "geojson_by_kecamatan/wringinanom.geojson",
+    "kota": "Gresik",
+    "size_kb": 52.19
+  },
+  "Ujungpangkah": {
+    "file": "geojson_by_kecamatan/ujungpangkah.geojson",
+    "kota": "Gresik",
+    "size_kb": 649.16
+  },
+  "Kedamean": {
+    "file": "geojson_by_kecamatan/kedamean.geojson",
+    "kota": "Gresik",
+    "size_kb": 78.57
+  },
+  "Sidayu": {
+    "file": "geojson_by_kecamatan/sidayu.geojson",
+    "kota": "Gresik",
+    "size_kb": 35.86
+  },
+  "Manyar": {
+    "file": "geojson_by_kecamatan/manyar.geojson",
+    "kota": "Gresik",
+    "size_kb": 117.59
+  },
+  "Cerme": {
+    "file": "geojson_by_kecamatan/cerme.geojson",
+    "kota": "Gresik",
+    "size_kb": 78.5
+  },
+  "Bungah": {
+    "file": "geojson_by_kecamatan/bungah.geojson",
+    "kota": "Gresik",
+    "size_kb": 241.26
+  },
+  "Menganti": {
+    "file": "geojson_by_kecamatan/menganti.geojson",
+    "kota": "Gresik",
+    "size_kb": 96.31
+  },
+  "Kebomas": {
+    "file": "geojson_by_kecamatan/kebomas.geojson",
+    "kota": "Gresik",
+    "size_kb": 48.83
+  },
+  "Driyorejo": {
+    "file": "geojson_by_kecamatan/driyorejo.geojson",
+    "kota": "Gresik",
+    "size_kb": 38.79
+  },
+  "Gresik": {
+    "file": "geojson_by_kecamatan/gresik.geojson",
+    "kota": "Gresik",
+    "size_kb": 46.06
+  },
+  "Sangkapura": {
+    "file": "geojson_by_kecamatan/sangkapura.geojson",
+    "kota": "Gresik",
+    "size_kb": 535.53
+  },
+  "Tambak": {
+    "file": "geojson_by_kecamatan/tambak.geojson",
+    "kota": "Gresik",
+    "size_kb": 513.39
+  }
+}
