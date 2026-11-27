@@ -1,0 +1,41 @@
+{
+  "supervisi_default_pin": "1111",
+  "spg_default_pin": "0000",
+  "require_spg_pin": false,
+  "supervisi_pins": {
+    "Alfi": "1122",
+    "Andi": "5566",
+    "Christian": "3344",
+    "Farell": "0011",
+    "Febro": "8899",
+    "Gusti": "2233",
+    "Thariq": "6677",
+    "Naufal": "7788",
+    "Zein": "4455"
+    
+  },
+  "spg_pins": {
+    "Aci": "9999",
+    "Adelia": "9999",
+    "Agnes": "9999",
+    "Anggun": "9999",
+    "Alma": "9999",
+    "Anissa": "9999",
+    "Arin": "9999",
+    "Ayu": "9999",
+    "Dewi": "9999",
+    "Grace": "9999",
+    "Lala": "9999",
+    "Lia": "9999",
+    "Nanda": "9999",
+    "Nia": "9999",
+    "Mariska": "9999",
+    "Nabilla": "9999",
+    "Nana": "9999",
+    "Nuri": "9999",
+    "Risa": "9999",
+    "Sherly": "9999",
+    "Prilly": "9999",
+    "Windy": "9999"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Black Matcha K12": {
+    "target_spg": 40,
+    "target_team": 80,
+    "group": "Black_Matcha"
+  },
+  "D.Super 12": {
+    "target_spg": 40,
+    "target_team": 80,
+    "group": "D_Super"
+  },
+  "D.Super Kretek": {
+    "target_spg": 40,
+    "target_team": 80,
+    "group": "D_Super"
+  },
+  "D.76 Apel Royal": {
+    "target_spg": 40,
+    "target_team": 80
+  },
+  "D.76 Apel": {
+    "target_spg": 30,
+    "target_team": 60
+  },
+  "Djarum 76 Aksara": {
+    "target_spg": 30,
+    "target_team": 60
+  },
+  "Black Matcha Siro": {
+    "target_spg": 40,
+    "target_team": 80,
+    "group": "Black_Matcha"
+  },
+  "Black Matcha Kuro": {
+    "target_spg": 40,
+    "target_team": 80,
+    "group": "Black_Matcha"
+  }
+}

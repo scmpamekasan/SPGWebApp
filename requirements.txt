@@ -1,0 +1,8 @@
+streamlit
+pandas
+geopandas
+openpyxl
+streamlit-js-eval
+shapely
+pydeck
+supabase
